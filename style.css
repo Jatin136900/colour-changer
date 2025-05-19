@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 22%;
+    height: 250px;
+    background-color: red;
+     margin: 20px;
+     margin-top: 50px;
+    
+   background-image: url();
+    
+}
+
